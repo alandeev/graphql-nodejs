@@ -3,7 +3,7 @@
 ## About
 > This is extremely simple and fast, I love this technology and I will use it in the future. 🚀🧡
 
-## Querys
+## Querys / Mutation
 ```js
 
 query {
